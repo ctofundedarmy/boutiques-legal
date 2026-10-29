@@ -7,7 +7,7 @@
 
 Boutiques is made by FundedArmy ("we", "us"). It helps people in Rewari, Haryana find local boutiques and their outfits. This page explains what the app collects, why, and how to delete it.
 
-Questions? Email **cto@fundedarmy.com**.
+Questions? Email **raopawan0309@gmail.com**.
 
 ## What we collect
 
@@ -63,7 +63,7 @@ We do not sell your data. We do not show ads. These companies process data for u
 
 **In the app:** open the **Account** tab, tap **Delete my account**, then confirm. The account and everything linked to it are deleted straight away: your sign-in and profile, boutiques you listed with their outfits, photos and videos, your saved outfits, your notifications and push tokens.
 
-**By email:** if you no longer have the app, email **cto@fundedarmy.com** with the subject "Delete my account" from the Google account you signed in with, or tell us which account it was. We delete the account within 7 days and reply when it is done.
+**By email:** if you no longer have the app, email **raopawan0309@gmail.com** with the subject "Delete my account" from the Google account you signed in with, or tell us which account it was. We delete the account within 7 days and reply when it is done.
 
 Deletion is permanent. Shoppers who saved one of your outfits lose that entry too.
 
@@ -81,4 +81,4 @@ When something changes, we update this page and the date at the top. Big changes
 
 ## Contact
 
-FundedArmy, Rewari, Haryana, India. Email: **cto@fundedarmy.com**
+FundedArmy, Rewari, Haryana, India. Email: **raopawan0309@gmail.com**

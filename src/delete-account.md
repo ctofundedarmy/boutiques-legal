@@ -2,7 +2,7 @@
 
 <!-- Google Play needs a public web page for account deletion (Play Console → App content → Data safety →
      Account deletion). Host this text anywhere (GitHub Pages, your website) and paste its address there.
-     Replace cto@fundedarmy.com before publishing. -->
+     Replace raopawan0309@gmail.com before publishing. -->
 
 ## In the app
 
@@ -14,7 +14,7 @@ The account is deleted straight away.
 
 ## Without the app
 
-If you no longer have the app installed, email **cto@fundedarmy.com** with the subject "Delete my account"
+If you no longer have the app installed, email **raopawan0309@gmail.com** with the subject "Delete my account"
 and the mobile number or Google account you signed in with. We delete the account within 7 days and
 reply when it is done.
 
